@@ -1,0 +1,14 @@
+{
+  "name": "telegram-cloud-backend",
+  "version": "1.0.0",
+  "description": "Telegram Login Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "crypto": "^1.0.1",
+    "body-parser": "^1.20.2"
+  }
+}
